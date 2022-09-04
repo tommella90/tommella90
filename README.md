@@ -7,7 +7,7 @@ ___
 * :art: Also studying Touchdesigner for 3D modeling and data visualizazion 
 * :video_game: Ex competitive martial artist and videogame pro-player
 
-[CV]([https://link-url-here.org](https://github.com/tommella90/CV/blob/main/CV_RAMELLA.0.png))
+[CV](https://github.com/tommella90/CV/blob/main/CV_RAMELLA.0.png)
 
 Check my CV [![CV](https://github.com/tommella90/tommella90/blob/main/images/cv1.png)](https://github.com/tommella90/CV/blob/main/CV_RAMELLA.0.png)
  or my portfolio [![Portfolio](https://github.com/tommella90/tommella90/blob/main/images/pf1.png)](https://github.com/tommella90/Tommy_Portfolio)
