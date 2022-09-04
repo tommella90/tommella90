@@ -1,6 +1,12 @@
 ### Hello, I'm Tommaso 👋
 
-#### I'm a postdoctoral researcher in economics at the Universtity of Milan, Bicocca, willing to move to **data Science in the industry**. 
+#### I'm a postdoctoral researcher in economics at the Universtity of Milan, Bicocca, willing to move to **data Science in the industry**.
+
+Here is a list of similarities and differences betweeen econometrics and data science:
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 I have 5+ years of experience in econometrics, data analysis, data modeling and data visualisaz
  ioshgsh
