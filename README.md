@@ -16,4 +16,4 @@ ___
     height="100" alt="alt text" title="Click to enlarge"></a>
 
 ___
-![My Image]("C:/Users/tomma/Documents/job_search/favicons/python.png")
+![My Image]("../Tommy_Portfolio/rsp.png")
