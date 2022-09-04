@@ -10,6 +10,6 @@ ___
 
 ![My Image](https://github.com/tommella90/tommella90/blob/main/images/cv1.png)
 ___
-[!["My Image"](https://github.com/tommella90/tommella90/blob/main/images/python.ico)](https://github.com/tommella90/Tommy_Portfolio)
+[!["My Image"](https://github.com/tommella90/tommella90/blob/main/images/cv2.png)](https://github.com/tommella90/Tommy_Portfolio)
 
 
