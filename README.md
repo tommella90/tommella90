@@ -8,8 +8,7 @@ ___
 * :video_game: Ex competitive martial artist and videogame pro-player
 
 
-![My Image](https://github.com/tommella90/tommella90/blob/main/images/python.ico)
-
+![My Image](https://github.com/tommella90/tommella90/blob/main/images/cv1.png)
 ___
 [!["My Image"](https://github.com/tommella90/tommella90/blob/main/images/python.ico)](https://github.com/tommella90/Tommy_Portfolio)
 
