@@ -1,6 +1,8 @@
 ### Hello, I'm Tommaso 👋
 
-#### I'm a postdoctoral researcher in economics at the Universtity of Milan, Bicocca, willing to move to data Science in the industry. I have 5+ years of experience in econometrics, data analysis, data modeling and data visualisaz
+#### I'm a postdoctoral researcher in economics at the Universtity of Milan, Bicocca, willing to move to **data Science in the industry**. 
+
+I have 5+ years of experience in econometrics, data analysis, data modeling and data visualisaz
  ioshgsh
 <!--
 **tommella90/tommella90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
