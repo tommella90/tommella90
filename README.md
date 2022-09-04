@@ -11,9 +11,6 @@ ___
 ![My Image](https://github.com/tommella90/tommella90/blob/main/images/python.ico)
 
 ___
-<a href="https://github.com/tommella90/Tommy_Portfolio/blob/main/head.md">
-    <img src=(https://github.com/tommella90/tommella90/blob/main/images/python.ico)
-    height="100" alt="alt text" title="Click to enlarge"></a>
+<a href="https://github.com/tommella90/Tommy_Portfolio"><img src=https://github.com/tommella90/tommella90/blob/main/images/python.ico</a>
 
-___
 
