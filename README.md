@@ -16,5 +16,5 @@ ___
     height="100" alt="alt text" title="Click to enlarge"></a>
 
 ___
-![My Image]("images/python.png")
+![My Image]("https://github.com/tommella90/tommella90/blob/main/images/python.ico")
 
