@@ -1,8 +1,11 @@
 ### Hello, I'm Tommaso :smiley: :rainbow: :bar_chart:
 ___
-### I'm a postdoctoral researcher in economics at the Universtity of Milan, Bicocca, willing to move to ***data science*** in the industry.
-
-#### 
+### I'm a postdoctoral researcher in economics at the Universtity of Milan, Bicocca, willing to move to ***data science*** in the industry. 
+* :chart: +5 years of experience in Econometrics, data analysis and data visualization 
+* :mortar_board: Main topics: labour market, public policies evaluatione, personality traits 
+*  :milky_way: Currently deepening Machine Learning 
+* :art: Also studying Touchdesigner for 3D modeling and data visualizazion 
+* :video_game: Ex competitive martial artist and videogame pro-player
 
 
 I have 5+ years of experience in econometrics, data analysis, data modeling and data visualisaz
