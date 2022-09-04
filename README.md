@@ -11,6 +11,6 @@ ___
 ![My Image](https://github.com/tommella90/tommella90/blob/main/images/python.ico)
 
 ___
-<a href="https://github.com/tommella90/Tommy_Portfolio"><img src=https://github.com/tommella90/tommella90/blob/main/images/python.ico</a>
+[![nnnname](https://github.com/tommella90/tommella90/blob/main/images/python.ico)]([link to your URL](https://github.com/tommella90/Tommy_Portfolio))
 
 
