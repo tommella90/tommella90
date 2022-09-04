@@ -8,7 +8,7 @@ ___
 * :video_game: Ex competitive martial artist and videogame pro-player
 
 
-![Alt text](C:/Users/tomma/Documents/job_search/favicons "Optional title")
+![Alt text]("C:/Users/tomma/Documents/job_search/favicons/python.ico" "Optional title")
 
 ___
 <a href="https://github.com/tommella90/Tommy_Portfolio/blob/main/head.md">
