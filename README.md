@@ -14,3 +14,6 @@ ___
 <a href="https://github.com/tommella90/Tommy_Portfolio/blob/main/head.md">
     <img src="C:/Users/tomma/Documents/job_search/favicons/python.ico" 
     height="100" alt="alt text" title="Click to enlarge"></a>
+
+___
+<img src=C:/Users/tomma/Documents/job_search/favicons/python.ico" alt="Alt text" title="Optional title">
