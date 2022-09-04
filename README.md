@@ -12,3 +12,5 @@ Check my [CV](https://github.com/tommella90/CV/blob/main/CV_RAMELLA.0.png) [![CV
  or my [Portfolio](https://github.com/tommella90/Tommy_Portfolio/blob/main/README.md)
  [![Portfolio](https://github.com/tommella90/tommella90/blob/main/images/pf1.png)](https://github.com/tommella90/Tommy_Portfolio)
 
+
+<img src="https://github.com/tommella90/tommella90/blob/main/images/pf1.png" width="200" height="200">
