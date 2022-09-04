@@ -1,8 +1,6 @@
 ### Hello, I'm Tommaso :smiley: :rainbow: :bar_chart:
-
-### I'm a postdoctoral researcher in economics at the Universtity of Milan, Bicocca,
-
-#### willing to move to ***data science*** in the industry.
+___
+### I'm a postdoctoral researcher in economics at the Universtity of Milan, Bicocca, willing to move to ***data science*** in the industry.
 
 #### 
 
