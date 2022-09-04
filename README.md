@@ -16,5 +16,5 @@ ___
     height="100" alt="alt text" title="Click to enlarge"></a>
 
 ___
-![My Image]("https://drive.google.com/drive/u/0/folders/1vsYnlRoKWwMKtEgs4pjt2vvp0ZT8Valf/python.png")
+![My Image]("images/python.png")
 
