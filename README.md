@@ -8,4 +8,10 @@ ___
 * :video_game: Ex competitive martial artist and videogame pro-player
 
 Check my portfolio: [Link text](https://github.com/tommella90/Tommy_Portfolio/blob/main/head.md)
-<link href="/C:/Users/tomma/Documents/job_search/favicons/python.ico" rel="icon" type="image/x-icon" />
+
+![Alt text](C:/Users/tomma/Documents/job_search/favicons "Optional title")
+
+
+<a href="https://github.com/tommella90/Tommy_Portfolio/blob/main/head.md">
+    <img src="C:/Users/tomma/Documents/job_search/favicons" 
+    height="100" alt="alt text" title="Click to enlarge"></a>
