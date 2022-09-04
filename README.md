@@ -16,5 +16,4 @@ ___
     height="100" alt="alt text" title="Click to enlarge"></a>
 
 ___
-![My Image]("../Tommy_Portfolio/blob/main/rsp.png")
-
+![My Image]("tommella90/Tommy_Portfolio/blob/main/rsp.png")
