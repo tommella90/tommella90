@@ -16,6 +16,6 @@ Check my [CV](https://github.com/tommella90/CV/blob/main/CV_RAMELLA.0.png) [![CV
 <img src="https://github.com/tommella90/tommella90/blob/main/images/pf1.png" width="200" height="200">
 
 
-| CV       |   Portfolio   |  Linkedin |
-|----------|:-------------:|----------:|
-|[![CV](https://github.com/tommella90/tommella90/blob/main/images/cv1.png)](https://github.com/tommella90/CV/blob/main/CV_RAMELLA.0.png)          |  left-aligned | $1600     |
+| CV                         |   Portfolio                  |  Linkedin                   |
+|----------------------------|:----------------------------:|----------------------------:|
+|<img src="https://github.com/tommella90/tommella90/blob/main/images/pf1.png" width="200" height="200">          |  left-aligned | $1600     |
