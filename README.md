@@ -11,6 +11,6 @@ ___
 Check my [CV](https://github.com/tommella90/CV/blob/main/CV_RAMELLA.0.png) [![CV](https://github.com/tommella90/tommella90/blob/main/images/cv1.png)](https://github.com/tommella90/CV/blob/main/CV_RAMELLA.0.png)
 
 
-| CV                         |   Portfolio                  |  Linkedin                   |
+| CV                         |   Portfolio                  |Linkedin                     |
 |----------------------------|:----------------------------:|----------------------------:|
-|<img src="https://github.com/tommella90/tommella90/blob/main/images/cv.jpg" width="200" height="200">          |<img src="https://github.com/tommella90/tommella90/blob/main/images/portfolio.png" width="200" height="200">   |<img src="https://github.com/tommella90/tommella90/blob/main/images/linkedin.png" width="200" height="200">      |
+|<img src="https://github.com/tommella90/tommella90/blob/main/images/cv.jpg" width="200" height="200">      |<img src="https://github.com/tommella90/tommella90/blob/main/images/portfolio.png" width="200" height="200">   |<img src="https://github.com/tommella90/tommella90/blob/main/images/linkedin.png" width="200" height="200">      |
