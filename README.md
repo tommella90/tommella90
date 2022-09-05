@@ -14,3 +14,8 @@ Check my [CV](https://github.com/tommella90/CV/blob/main/CV_RAMELLA.0.png) [![CV
 
 
 <img src="https://github.com/tommella90/tommella90/blob/main/images/pf1.png" width="200" height="200">
+
+
+| CV       |   Portfolio   |  Linkedin |
+|----------|:-------------:|----------:|
+| col 1 is |  left-aligned | $1600     |
