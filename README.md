@@ -15,4 +15,4 @@ Check my [CV](https://github.com/tommella90/CV/blob/main/CV_RAMELLA.0.png) [![CV
 
 | CV                         |   Portfolio                  |Linkedin                     |
 |----------------------------|------------------------------|-----------------------------|
-|<img src="https://github.com/tommella90/tommella90/blob/main/images/sphere_inst.png2" width="200" height="200">      |<img src="https://github.com/tommella90/tommella90/blob/main/images/pf.png" width="200" height="200">   |<img src="https://github.com/tommella90/tommella90/blob/main/images/linkedin.png" width="200" height="200">      |
+|<img src="https://github.com/tommella90/tommella90/blob/main/images/sphere_inst2.png" width="200" height="200">      |<img src="https://github.com/tommella90/tommella90/blob/main/images/pf.png" width="200" height="200">   |<img src="https://github.com/tommella90/tommella90/blob/main/images/linkedin.png" width="200" height="200">      |
