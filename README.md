@@ -1,7 +1,7 @@
 ### Hello, I'm Tommaso :smiley: :rainbow: :bar_chart: :coffee:
 ___
 ### I'm a postdoctoral researcher in economics at the Universtity of Milan, Bicocca, willing to move to ***data science*** in the industry. 
-<img align="right" width="300" height="200" src="https://github.com/tommella90/tommella90/blob/main/images/mylogo.png">
+<img align="right" width="250" height="125" src="https://github.com/tommella90/tommella90/blob/main/images/mylogo.png">
 
 * :chart: +5 years of experience in Econometrics, data analysis and data visualization 
 * :mortar_board: Main topics: labour market, public policies evaluatione, personality traits 
