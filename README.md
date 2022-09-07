@@ -18,12 +18,12 @@ ____
 
 | CV                         |   Portfolio                  |Linkedin                     |
 |----------------------------|------------------------------|-----------------------------|
-|<img src="https://github.com/tommella90/tommella90/blob/main/images/sphere_inst2.png" width="200" height="200">      |<img src="https://github.com/tommella90/tommella90/blob/main/images/pf2.png" width="200" height="200">   |<img src="https://github.com/tommella90/tommella90/blob/main/images/linkedin.png" width="200" height="200">      |
+|<img src="https://github.com/tommella90/tommella90/blob/main/images/sphere_inst2.png" width="200" height="200">      |<img src="https://github.com/tommella90/tommella90/blob/main/images/pf2.png" width="200" height="200">   |<img src="https://github.com/tommella90/tommella90/blob/main/images/linkedin.png" width="150" height="150">      |
 
 ____
 
 ### Languages and Tools
-[<img src="https://github.com/tommella90/tommella90/blob/main/images/python_logo.png" width="50" height="50">](https://www.python.org/)    [<img src="https://github.com/tommella90/tommella90/blob/main/images/stata_logo.png" width="50" height="50">](https://www.stata.com/)    [<img src="https://github.com/tommella90/tommella90/blob/main/images/td.png" width="50" height="50">](https://derivative.ca/)    [<img src="https://github.com/tommella90/tommella90/blob/main/images/sql.ico" width="50" height="50">](https://www.mysql.com/)    [<img src="https://github.com/tommella90/tommella90/blob/main/images/ghephi.png" width="50" height="50">](https://gephi.org/)
+[<img src="https://github.com/tommella90/tommella90/blob/main/images/python_logo.png" width="50" height="50">](https://www.python.org/) &nbsp; [<img src="https://github.com/tommella90/tommella90/blob/main/images/stata_logo.png" width="50" height="50">](https://www.stata.com/)    [<img src="https://github.com/tommella90/tommella90/blob/main/images/td.png" width="50" height="50">](https://derivative.ca/)    [<img src="https://github.com/tommella90/tommella90/blob/main/images/sql.ico" width="50" height="50">](https://www.mysql.com/)    [<img src="https://github.com/tommella90/tommella90/blob/main/images/ghephi.png" width="50" height="50">](https://gephi.org/)
 
 ------
 [<img src="https://github.com/tommella90/tommella90/blob/main/images/pandas.png" width="100" height="100">](https://pandas.pydata.org/) [<img src="https://github.com/tommella90/tommella90/blob/main/images/statsmodel.png" width="100" height="100">](https://pypi.org/project/statsmodels/) [<img src="https://github.com/tommella90/tommella90/blob/main/images/sci-learn.png" width="100" height="100">](https://scikit-learn.org/stable/) [<img src="https://github.com/tommella90/tommella90/blob/main/images/pytorch.png" width="100" height="100">](https://pytorch.org/) [<img src="https://github.com/tommella90/tommella90/blob/main/images/mediapipe.png" width="100" height="100">](https://google.github.io/mediapipe/)
