@@ -10,9 +10,10 @@ ___
 * :video_game: Ex competitive martial artist and videogame pro-player
 
 
-Check my [CV](https://github.com/tommella90/CV/blob/main/CV_RAMELLA.0.png)
 
-[![CV](https://github.com/tommella90/tommella90/blob/main/images/cv1.png) width="200" height="200"](https://github.com/tommella90/CV/blob/main/CV_RAMELLA.0.png)
+[![CV](![image](http://url.to/image.png "Title" {width=40px height=400px}))](https://github.com/tommella90/CV/blob/main/CV_RAMELLA.0.png)
+____
+[![CV](https://github.com/tommella90/tommella90/blob/main/images/cv1.png)](https://github.com/tommella90/CV/blob/main/CV_RAMELLA.0.png)
 
 
 | CV                         |   Portfolio                  |Linkedin                     |
