@@ -21,13 +21,15 @@ ____
 |<img src="https://github.com/tommella90/tommella90/blob/main/images/sphere_inst2.png" width="200" height="200">      |<img src="https://github.com/tommella90/tommella90/blob/main/images/pf2.png" width="200" height="200">   |<img src="https://github.com/tommella90/tommella90/blob/main/images/linkedin.png" width="200" height="200">      |
 
 ____
+### LANGUAGES AND TOOLS
+---
+[<img src="https://github.com/tommella90/tommella90/blob/main/images/python_logo.png" width="50" height="50">](https://www.python.org/) &nbsp;&nbsp; [<img src="https://github.com/tommella90/tommella90/blob/main/images/stata_logo.png" width="50" height="50">](https://www.stata.com/) &nbsp;&nbsp;   [<img src="https://github.com/tommella90/tommella90/blob/main/images/td.png" width="50" height="50">](https://derivative.ca/)  &nbsp;&nbsp;  [<img src="https://github.com/tommella90/tommella90/blob/main/images/sql.ico" width="50" height="50">](https://www.mysql.com/)  &nbsp;&nbsp; 
 
-### Languages and Tools
-[<img src="https://github.com/tommella90/tommella90/blob/main/images/python_logo.png" width="50" height="50">](https://www.python.org/) &nbsp;&nbsp; [<img src="https://github.com/tommella90/tommella90/blob/main/images/stata_logo.png" width="50" height="50">](https://www.stata.com/) &nbsp;&nbsp;   [<img src="https://github.com/tommella90/tommella90/blob/main/images/td.png" width="50" height="50">](https://derivative.ca/)  &nbsp;&nbsp;  [<img src="https://github.com/tommella90/tommella90/blob/main/images/sql.ico" width="50" height="50">](https://www.mysql.com/)  &nbsp;&nbsp;  [<img src="https://github.com/tommella90/tommella90/blob/main/images/ghephi.png" width="50" height="50">](https://gephi.org/)
-
-------
+---
 [<img src="https://github.com/tommella90/tommella90/blob/main/images/pandas.png" width="100" height="100">](https://pandas.pydata.org/) &nbsp;&nbsp; [<img src="https://github.com/tommella90/tommella90/blob/main/images/statsmodel.png" width="100" height="100">](https://pypi.org/project/statsmodels/) &nbsp;&nbsp; [<img src="https://github.com/tommella90/tommella90/blob/main/images/sci-learn.png" width="100" height="100">](https://scikit-learn.org/stable/) &nbsp;&nbsp; [<img src="https://github.com/tommella90/tommella90/blob/main/images/pytorch.png" width="100" height="100">](https://pytorch.org/) &nbsp;&nbsp; [<img src="https://github.com/tommella90/tommella90/blob/main/images/mediapipe.png" width="100" height="100">](https://google.github.io/mediapipe/)
 
+---
+[<img src="https://github.com/tommella90/tommella90/blob/main/images/plt.png" width="50" height="50">](https://matplotlib.org/) &nbsp;&nbsp; [<img src="https://github.com/tommella90/tommella90/blob/main/images/seaborn.png" width="50" height="50">](https://seaborn.pydata.org/) &nbsp;&nbsp; [<img src="https://github.com/tommella90/tommella90/blob/main/images/plotly.png" width="50" height="50">](https://plotly.com/) &nbsp;&nbsp; [<img src="https://github.com/tommella90/tommella90/blob/main/images/ghephi.png" width="50" height="50">](https://gephi.org/) &nbsp;&nbsp;
 
 
 
