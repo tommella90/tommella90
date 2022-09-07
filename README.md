@@ -12,7 +12,7 @@ ___
 
 Check my [CV](https://github.com/tommella90/CV/blob/main/CV_RAMELLA.0.png)
 
-[![CV](https://github.com/tommella90/tommella90/blob/main/images/cv1.png)](https://github.com/tommella90/CV/blob/main/CV_RAMELLA.0.png)
+[![CV](https://github.com/tommella90/tommella90/blob/main/images/cv1.png) width="200" height="200"](https://github.com/tommella90/CV/blob/main/CV_RAMELLA.0.png)
 
 
 | CV                         |   Portfolio                  |Linkedin                     |
