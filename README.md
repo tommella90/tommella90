@@ -21,5 +21,5 @@ ____
 |<img src="https://github.com/tommella90/tommella90/blob/main/images/sphere_inst2.png" width="200" height="200">      |<img src="https://github.com/tommella90/tommella90/blob/main/images/pf2.png" width="200" height="200">   |<img src="https://github.com/tommella90/tommella90/blob/main/images/linkedin.png" width="200" height="200">      |
 
 
-[![](<img src="https://github.com/tommella90/tommella90/blob/main/images/sphere_inst2.png" width="200" height="200")](https://github.com/tommella90/CV/blob/main/CV_RAMELLA.0.png)
+[<img src="https://github.com/tommella90/tommella90/blob/main/images/sphere_inst2.png" width="200" height="200">](https://github.com/tommella90/CV/blob/main/CV_RAMELLA.0.png)
 
