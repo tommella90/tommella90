@@ -21,6 +21,6 @@ ____
 |<img src="https://github.com/tommella90/tommella90/blob/main/images/sphere_inst2.png" width="200" height="200">      |<img src="https://github.com/tommella90/tommella90/blob/main/images/pf2.png" width="200" height="200">   |<img src="https://github.com/tommella90/tommella90/blob/main/images/linkedin.png" width="200" height="200">      |
 
 ### Languages and Tools
-[<img src="https://github.com/tommella90/tommella90/blob/main/images/python.png" width="100" height="100">](https://www.python.org/) [<img src="https://github.com/tommella90/tommella90/blob/main/images/stata.png" width="100" height="100">](https://www.stata.com/) [<img src="https://github.com/tommella90/tommella90/blob/main/images/td.png" width="100" height="100">](https://derivative.ca/)
+[<img src="https://github.com/tommella90/tommella90/blob/main/images/python_logo.png" width="100" height="100">](https://www.python.org/) [<img src="https://github.com/tommella90/tommella90/blob/main/images/stata_logo.png" width="100" height="100">](https://www.stata.com/) [<img src="https://github.com/tommella90/tommella90/blob/main/images/td.png" width="100" height="100">](https://derivative.ca/)
 
 
