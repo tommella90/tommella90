@@ -1,7 +1,7 @@
 ### Hello, I'm Tommaso :smiley: :rainbow: :bar_chart: :coffee:
 ___
 ### I'm a postdoctoral researcher in economics at the Universtity of Milan, Bicocca, willing to move to ***data science*** in the industry. 
-<img align="right" width="330" height="205" src="https://github.com/tommella90/tommella90/blob/main/images/mylogo2.png">
+<img align="right" width="370" height="205" src="https://github.com/tommella90/tommella90/blob/main/images/mylogo2.png">
 
 * :chart: +5 years of experience in Econometrics, data analysis and data visualization 
 * :mortar_board: Main topics: labour market, public policies evaluatione, personality traits 
@@ -11,7 +11,7 @@ ___
 
 
 
-[![CV](![image](http://url.to/image.png "Title" {width=40px height=400px}))](https://github.com/tommella90/CV/blob/main/CV_RAMELLA.0.png)
+[](https://github.com/tommella90/CV/blob/main/CV_RAMELLA.0.png)
 ____
 [![CV](https://github.com/tommella90/tommella90/blob/main/images/cv1.png)](https://github.com/tommella90/CV/blob/main/CV_RAMELLA.0.png)
 
@@ -21,5 +21,5 @@ ____
 |<img src="https://github.com/tommella90/tommella90/blob/main/images/sphere_inst2.png" width="200" height="200">      |<img src="https://github.com/tommella90/tommella90/blob/main/images/pf2.png" width="200" height="200">   |<img src="https://github.com/tommella90/tommella90/blob/main/images/linkedin.png" width="200" height="200">      |
 
 
-[![](<img src="https://your-image-url.type" width="100" height="100">)](https://github.com/tommella90/CV/blob/main/CV_RAMELLA.0.png)
+[![](<img src="https://github.com/tommella90/tommella90/blob/main/images/sphere_inst2.png" width="200" height="200")](https://github.com/tommella90/CV/blob/main/CV_RAMELLA.0.png)
 
