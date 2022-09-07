@@ -15,6 +15,8 @@ ___
 |----------------------------|------------------------------|-----------------------------|
 |<img src="https://github.com/tommella90/tommella90/blob/main/images/sphere_inst2.png" width="200" height="200">      |<img src="https://github.com/tommella90/tommella90/blob/main/images/pf2.png" width="200" height="200">   |<img src="https://github.com/tommella90/tommella90/blob/main/images/linkedin.png" width="200" height="200">      |
 
+
+I like taking my time to learn new staffs, I also love sloths :sloth:
 ____
 ### LANGUAGES AND TOOLS
 ---
