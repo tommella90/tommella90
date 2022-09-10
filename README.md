@@ -45,12 +45,12 @@ Detecting Rock scissor or paper from the camera with sueprvised ML
 
 ### 3) Predicting sexual discrimination 
 I use Harvard University data on implicit discrimiation to spot predictors of sexual discrimiation  
-<video src="https://user-images.githubusercontent.com/66441052/189490099-c53015e3-c320-4ff2-a0a0-ff3084685f6e.mp4" width="300" height="200">
+<video src="" width="300" height="200">
 </video>         
 
 ### 4) Scatterplot generator with Touchdesigner
 Detecting Rock scissor or paper from the camera with sueprvised ML       
-<video src="https://user-images.githubusercontent.com/66441052/189490099-c53015e3-c320-4ff2-a0a0-ff3084685f6e.mp4" width="300" height="200">
+<video src="" width="300" height="200">
 </video>         
 
 
