@@ -32,5 +32,11 @@ ____
 
 # And here are some shots from recent projects (see porfolio)
 
-<img src=https://github.com/tommella90/Tommy_Portfolio/blob/main/images/scatter1.mov" width="70" height="70">
-
+<img src="https://github.com/tommella90/Tommy_Portfolio/blob/main/images/scatter1.mov" width="70" height="70">
+                                                                                                            
+<video width="320" height="240" controls>
+  <source src="https://github.com/tommella90/Tommy_Portfolio/blob/main/images/scatter1.mov" type="video/mov">
+</video>
+                                                                                                            
+                                                                                                          
+                                                                                                          
