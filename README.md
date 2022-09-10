@@ -33,7 +33,7 @@ ____
 # And here are some shots from recent projects (see porfolio)
 
 
-<video src="https://user-images.githubusercontent.com/66441052/189489900-3413dde9-bc66-45e6-9f68-5cc704c7bca4.mp4" width="400" height="300">
+<video src="https://user-images.githubusercontent.com/66441052/189489900-3413dde9-bc66-45e6-9f68-5cc704c7bca4.mp4" width="300" height="200">
 </video>         
 
 
