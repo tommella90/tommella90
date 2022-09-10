@@ -35,7 +35,7 @@ ____
 <img src="https://github.com/tommella90/Tommy_Portfolio/blob/main/images/scatter1.mov" width="70" height="70">
                                                                                                             
 <video width="320" height="240" controls>
-  <source src="https://github.com/tommella90/Tommy_Portfolio/blob/main/images/scatter1.mov" type="video/mov">
+  <source src="https://github.com/tommella90/Tommy_Portfolio/blob/main/images/scatter1.mp4" type="video/mp4">
 </video>
                                                                                                             
                                                                                                           
