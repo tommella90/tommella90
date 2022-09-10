@@ -30,4 +30,7 @@ ____
 [<img src="https://github.com/tommella90/tommella90/blob/main/images/plt.png" width="70" height="70">](https://matplotlib.org/) &nbsp;&nbsp; [<img src="https://github.com/tommella90/tommella90/blob/main/images/seaborn.png" width="70" height="70">](https://seaborn.pydata.org/) &nbsp;&nbsp; [<img src="https://github.com/tommella90/tommella90/blob/main/images/plotly.png" width="70" height="70">](https://plotly.com/) &nbsp;&nbsp; [<img src="https://github.com/tommella90/tommella90/blob/main/images/ghephi.png" width="70" height="70">](https://gephi.org/) &nbsp;&nbsp;
 
 
+# And here are some shots from recent projects (see porfolio)
+
+<img src=https://github.com/tommella90/Tommy_Portfolio/blob/main/images/scatter1.mov" width="70" height="70">
 
