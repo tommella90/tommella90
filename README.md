@@ -38,13 +38,20 @@ Detecting Rock scissor or paper from the camera with sueprvised ML
 <video src="insertvideo" width="300" height="200">
 </video>   
 
-### 1) Scatterplot generator with Touchdesigner
-Detecting Rock scissor or paper from the camera with sueprvised ML       
-<video src="https://user-images.githubusercontent.com/66441052/189490099-c53015e3-c320-4ff2-a0a0-ff3084685f6e.mp4" width="300" height="200">
+### 2) Scatterplot generator with Touchdesigner
+<video src="https://user-images.githubusercontent.com/66441052/189490696-4e4c92e6-3488-4e85-a92e-2e0ee0017fd1.mp4" width="300" height="200">
 </video>         
 
 
+### 3) Predicting sexual discrimination 
+I use Harvard University data on implicit discrimiation to spot predictors of sexual discrimiation  
+<video src="https://user-images.githubusercontent.com/66441052/189490099-c53015e3-c320-4ff2-a0a0-ff3084685f6e.mp4" width="300" height="200">
+</video>         
 
+### 4) Scatterplot generator with Touchdesigner
+Detecting Rock scissor or paper from the camera with sueprvised ML       
+<video src="https://user-images.githubusercontent.com/66441052/189490099-c53015e3-c320-4ff2-a0a0-ff3084685f6e.mp4" width="300" height="200">
+</video>         
 
 
  
