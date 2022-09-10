@@ -33,10 +33,13 @@ ____
 # And here are some shots from recent projects (see porfolio)
 
 
-<video src="https://user-images.githubusercontent.com/66441052/189490097-d103973b-4b75-4b2d-9d48-2185ffad578a.mp4" width="300" height="200">
-</video>         
+### 1) Rock scissor paper
+Detecting Rock scissor or paper from the camera with sueprvised ML       
+<video src="insertvideo" width="300" height="200">
+</video>   
 
-
+### 1) Scatterplot generator with Touchdesigner
+Detecting Rock scissor or paper from the camera with sueprvised ML       
 <video src="https://user-images.githubusercontent.com/66441052/189490099-c53015e3-c320-4ff2-a0a0-ff3084685f6e.mp4" width="300" height="200">
 </video>         
 
@@ -44,5 +47,5 @@ ____
 
 
 
-
+ 
                                                                                         
