@@ -33,16 +33,14 @@ ____
 # And here are some shots from recent projects (see porfolio)
 
 
-<video src="https://user-images.githubusercontent.com/66441052/189489900-3413dde9-bc66-45e6-9f68-5cc704c7bca4.mp4" width="300" height="200">
+<video src="https://user-images.githubusercontent.com/66441052/189490014-8d2f443f-f5ac-4136-b060-72d00a367817.mp4" width="300" height="200">
 </video>         
 
 
-<video src="https://user-images.githubusercontent.com/66441052/189489949-dfb49e36-3384-4745-8f68-830bfdd155b5.mp4" width="300" height="200">
+<video src="https://user-images.githubusercontent.com/66441052/189490021-e55ebf6d-b6a7-4c60-8a49-91285fce2de2.mp4" width="300" height="200">
 </video>         
 
-    
-
-
+   
 
 
 
