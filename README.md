@@ -31,12 +31,11 @@ ____
 
 
 # And here are some shots from recent projects (see porfolio)
-                      
+![](https://github.com/tommella90/Tommy_Portfolio/blob/main/images/scatter1.mp4){width="560" height="315"}
+
+
 <video src="https://user-images.githubusercontent.com/66441052/189485564-48b22a9a-3f30-4257-bf7b-4c2bc520d4c4.mp4" controls="controls" style="max-width: 330px;">
 </video>         
 
-<p><div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" id="bp" type="text/html" width="640" height="390"
-  src="https://github.com/tommella90/Tommy_Portfolio/blob/main/images/scatter1.mp4"
-  frameborder="0"/></div></p>
 
                                                                                             
