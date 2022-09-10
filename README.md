@@ -33,7 +33,7 @@ ____
 # And here are some shots from recent projects (see porfolio)
 
 
-<video src=https://github.com/tommella90/Tommy_Portfolio/blob/main/images/scatter1_2.mp4" width="400" height="300">
+<video src="https://github.com/tommella90/Tommy_Portfolio/blob/main/images/scatter1_2.mp4" width="400" height="300">
 </video>         
 
 
