@@ -31,11 +31,12 @@ ____
 
 
 # And here are some shots from recent projects (see porfolio)
-<video>
-<source src="https://user-images.githubusercontent.com/66441052/189485564-48b22a9a-3f30-4257-bf7b-4c2bc520d4c4.mp4" type="video/mp4" height="50%">
+<video id="my-video" poster="path/to/poster.jpg" width="500" height="350" controls="controls" preload="none">
+	<source src="https://user-images.githubusercontent.com/66441052/189485564-48b22a9a-3f30-4257-bf7b-4c2bc520d4c4.mp4" type="video/mp4"/>
+	<source src="https://user-images.githubusercontent.com/66441052/189485564-48b22a9a-3f30-4257-bf7b-4c2bc520d4c4.mp4" type="video/ogg"/>
 </video>
 
-<video src="https://user-images.githubusercontent.com/66441052/189485564-48b22a9a-3f30-4257-bf7b-4c2bc520d4c4.mp4" controls="controls" width="400" height="300">
+<video src="https://user-images.githubusercontent.com/66441052/189485564-48b22a9a-3f30-4257-bf7b-4c2bc520d4c4.mp4" width="400" height="300">
 </video>         
 
 
