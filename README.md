@@ -39,9 +39,9 @@ Detecting Rock scissor or paper from the camera with sueprvised ML
 </video>   
 
 ### 2) Scatterplot generator with Touchdesigner
+I created a scatterplot generator in Touchdesigner. Choose the csv file and draw a scatterplot with no coding. Many features available: fit OLS, fit Kmeans, color by group, and others.
 <video src="https://user-images.githubusercontent.com/66441052/189490696-4e4c92e6-3488-4e85-a92e-2e0ee0017fd1.mp4" width="300" height="200">
 </video>         
-
 
 ### 3) Predicting sexual discrimination 
 I use Harvard University data on implicit discrimiation to spot predictors of sexual discrimiation  
