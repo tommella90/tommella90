@@ -35,7 +35,7 @@ ____
 
 ### 1) Rock scissor paper
 Detecting Rock scissor or paper from the camera with sueprvised ML       
-<video src="insertvideo" width="300" height="200">
+<video src="https://user-images.githubusercontent.com/66441052/189772905-2802af04-1691-4efa-a1a4-c4db578037c8.mov" width="300" height="200">
 </video>   
 
 ### 2) Scatterplot generator with Touchdesigner
@@ -48,11 +48,14 @@ I use Harvard University data on implicit discrimiation to spot predictors of se
 <video src="" width="300" height="200">
 </video>         
 
-### 4) Scatterplot generator with Touchdesigner
-Detecting Rock scissor or paper from the camera with sueprvised ML       
+### 4) Song recommender with Spotipy API
+I use unsupervised machine learning to create a song recommendation system with Spotify        
 <video src="" width="300" height="200">
 </video>         
 
 
  
+
+
+
                                                                                          
