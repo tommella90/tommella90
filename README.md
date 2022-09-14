@@ -11,7 +11,7 @@ ___
 
 
 
-| CV                         |   Portfolio                  |Linkedin                     |
+| CV                         | Portfolio (work in progress) |           Linkedin          |
 |----------------------------|------------------------------|-----------------------------|
 |[<img src="https://github.com/tommella90/tommella90/blob/main/images/sphere_inst2.png" width="200" height="200">](https://github.com/tommella90/CV/blob/main/CV_RAMELLA.0.png)      |[<img src="https://github.com/tommella90/tommella90/blob/main/images/pf2.png" width="200" height="200">](https://github.com/tommella90/Tommy_Portfolio)   |[<img src="https://github.com/tommella90/tommella90/blob/main/images/linkedin.png" width="200" height="200">](https://www.linkedin.com/in/tommaso-ramella-dsmla/)      |
 
