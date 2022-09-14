@@ -13,7 +13,7 @@ ___
 
 | CV                         |   Portfolio                  |Linkedin                     |
 |----------------------------|------------------------------|-----------------------------|
-|<img src="https://github.com/tommella90/tommella90/blob/main/images/sphere_inst2.png" width="200" height="200">      |<img src="https://github.com/tommella90/tommella90/blob/main/images/pf2.png" width="200" height="200">   |<img src="https://github.com/tommella90/tommella90/blob/main/images/linkedin.png" width="200" height="200">      |
+|[<img src="https://github.com/tommella90/tommella90/blob/main/images/sphere_inst2.png" width="200" height="200">](https://github.com/tommella90/CV/blob/main/CV_RAMELLA.0.png)      |<img src="https://github.com/tommella90/tommella90/blob/main/images/pf2.png" width="200" height="200">   |<img src="https://github.com/tommella90/tommella90/blob/main/images/linkedin.png" width="200" height="200">      |
 
 
 I like taking my time to learn new staffs, I also love sloths :sloth:
@@ -37,7 +37,6 @@ ____
 Detecting Rock scissor or paper from the camera with sueprvised ML       
 <video src="https://user-images.githubusercontent.com/66441052/189970752-3d24d6a1-d1bd-4bfc-a51f-14e05d3b1a3b.mhttps://user-images.githubusercontent.com/66441052/189973586-f2803dbc-e6e6-4312-a158-dd44b29008fa.mp4" width="300" height="200">
 </video>   
-
 
 ### 2) Scatterplot generator with Touchdesigner
 I created a scatterplot generator in Touchdesigner. Choose the csv file and draw a scatterplot with no coding. Many features available: fit OLS, fit Kmeans, color by group, and others.
