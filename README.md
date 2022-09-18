@@ -47,7 +47,7 @@ Soon opensource
 
 ### 3) Predicting sexual discrimination 
 I use Harvard University data on implicit discrimiation to spot predictors of sexual discrimiation (exploratory analysis and machine learning). The fig. shows variables correlated (OLS exploratory regression) with implicit discrimination. 
-[<img src="![iat](https://user-images.githubusercontent.com/66441052/190933215-7879ff7d-9a5f-490c-87d0-225c77fa774f.png)" width="70" height="70">](https://pandas.pydata.org/)
+![iat](https://user-images.githubusercontent.com/66441052/190933239-2138148c-28d9-4ffa-a0c4-aa139a63c7c4.png)
 Find all the notebooks [here](https://github.com/tommella90/Predicting-sexual-discrimination)
 
 ### 4) Song recommender with Spotipy API
