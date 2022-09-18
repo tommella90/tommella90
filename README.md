@@ -46,8 +46,8 @@ I created a scatterplot generator in Touchdesigner. Choose the csv file and draw
 Soon opensource
 
 ### 3) Predicting sexual discrimination 
-I use Harvard University data on implicit discrimiation to spot predictors of sexual discrimiation  
-<video src="" width="300" height="200">
+I use Harvard University data on implicit discrimiation to spot predictors of sexual discrimiation (exploratory analysis and machine learning). The fig. shows variables correlated (OLS exploratory regression) with implicit discrimination. 
+![](https://user-images.githubusercontent.com/66441052/190933101-484ea7d1-2b5f-432d-99f1-9805a5076c78.png)
 </video>         
 Find all the notebooks [here](https://github.com/tommella90/Predicting-sexual-discrimination)
 
