@@ -37,21 +37,25 @@ ____
 Detecting Rock scissor or paper from the camera with sueprvised ML       
 <video src="https://user-images.githubusercontent.com/66441052/190932701-adfd6e17-8d6e-42ef-8d30-b0c1ccbbfcba.mp4" width="300" height="200">
 </video>   
+Full project [here](https://github.com/tommella90/IH_FinalProkect) (*not ready)
 
 ### 2) Scatterplot generator with Touchdesigner
 I created a scatterplot generator in Touchdesigner. Choose the csv file and draw a scatterplot with no coding. Many features available: fit OLS, fit Kmeans, color by group, and others.
 <video src="https://user-images.githubusercontent.com/66441052/189490696-4e4c92e6-3488-4e85-a92e-2e0ee0017fd1.mp4" width="300" height="200">
-</video>         
+</video>  
+Soon opensource
 
 ### 3) Predicting sexual discrimination 
 I use Harvard University data on implicit discrimiation to spot predictors of sexual discrimiation  
 <video src="" width="300" height="200">
 </video>         
+Find all the notebooks [here](https://github.com/tommella90/Predicting-sexual-discrimination)
 
 ### 4) Song recommender with Spotipy API
 I use unsupervised machine learning to create a song recommendation system with Spotify        
 <video src="https://user-images.githubusercontent.com/66441052/190932717-a2cc9244-8fab-458a-b40f-00dba5cf0743.mp4" width="300" height="200">
-</video>         
+</video>
+Fine the notebooks [here](https://github.com/tommella90/SongRecommender)
 
 
                                                                                          
