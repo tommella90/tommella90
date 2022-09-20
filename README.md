@@ -37,7 +37,7 @@ ____
 Detecting Rock scissor or paper from the camera with sueprvised ML       
 <video src="https://user-images.githubusercontent.com/66441052/190932701-adfd6e17-8d6e-42ef-8d30-b0c1ccbbfcba.mp4" width="300" height="200">
 </video>   
-Full project [here](https://github.com/tommella90/IH_FinalProkect) (*not ready)
+Full project [here](https://github.com/tommella90/Rock-Scissor-Paper-move-recognition) 
 
 ### 2) Scatterplot generator with Touchdesigner
 I created a scatterplot generator in Touchdesigner. Choose the csv file and draw a scatterplot with no coding. Many features available: fit OLS, fit Kmeans, color by group, and others.
