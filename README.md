@@ -29,36 +29,4 @@ ____
 ---
 [<img src="https://github.com/tommella90/tommella90/blob/main/images/plt.png" width="70" height="70">](https://matplotlib.org/) &nbsp;&nbsp; [<img src="https://github.com/tommella90/tommella90/blob/main/images/seaborn.png" width="70" height="70">](https://seaborn.pydata.org/) &nbsp;&nbsp; [<img src="https://github.com/tommella90/tommella90/blob/main/images/plotly.png" width="70" height="70">](https://plotly.com/) &nbsp;&nbsp; [<img src="https://github.com/tommella90/tommella90/blob/main/images/ghephi.png" width="70" height="70">](https://gephi.org/) &nbsp;&nbsp;
 
-
-# And here are some shots from recent projects (see porfolio)
-
-
-### 1) Rock scissor paper
-Detecting Rock scissor or paper from the camera with sueprvised ML       
-<video src="https://user-images.githubusercontent.com/66441052/190932701-adfd6e17-8d6e-42ef-8d30-b0c1ccbbfcba.mp4" width="300" height="200">
-</video>   
-Full project [here](https://github.com/tommella90/Rock-Scissor-Paper-move-recognition) 
-
-### 2) Scatterplot generator with Touchdesigner
-I created a scatterplot generator in Touchdesigner. Choose the csv file and draw a scatterplot with no coding. Many features available: fit OLS, fit Kmeans, color by group, and others.
-<video src="https://user-images.githubusercontent.com/66441052/189490696-4e4c92e6-3488-4e85-a92e-2e0ee0017fd1.mp4" width="300" height="200">
-</video>  
-Soon opensource
-
-### 3) Predicting sexual discrimination 
-I use Harvard University data on implicit discrimiation to spot predictors of sexual discrimiation (exploratory analysis and machine learning). The fig. shows variables correlated (OLS exploratory regression) with implicit discrimination. 
-![iat](https://user-images.githubusercontent.com/66441052/190933239-2138148c-28d9-4ffa-a0c4-aa139a63c7c4.png)
-Find all the notebooks [here](https://github.com/tommella90/Predicting-sexual-discrimination)
-
-### 4) Song recommender with Spotipy API
-I use unsupervised machine learning to create a song recommendation system with Spotify        
-<video src="https://user-images.githubusercontent.com/66441052/190932717-a2cc9244-8fab-458a-b40f-00dba5cf0743.mp4" width="300" height="200">
-</video>
-Fine the notebooks [here](https://github.com/tommella90/SongRecommender)
-
-
-
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=sarah-hart-landolt&show_icons=true&theme=radical)
-
-![github stats](https://github-readme-stats.vercel.app/api?username=sarah-hart-landolt&show_icons=true&theme=radical)
-                                                                                         
+[![Tommy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tommella90)]
