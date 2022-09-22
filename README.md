@@ -29,5 +29,5 @@ ____
 ---
 [<img src="https://github.com/tommella90/tommella90/blob/main/images/plt.png" width="70" height="70">](https://matplotlib.org/) &nbsp;&nbsp; [<img src="https://github.com/tommella90/tommella90/blob/main/images/seaborn.png" width="70" height="70">](https://seaborn.pydata.org/) &nbsp;&nbsp; [<img src="https://github.com/tommella90/tommella90/blob/main/images/plotly.png" width="70" height="70">](https://plotly.com/) &nbsp;&nbsp; [<img src="https://github.com/tommella90/tommella90/blob/main/images/ghephi.png" width="70" height="70">](https://gephi.org/) &nbsp;&nbsp;
 
-[Tommy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tommella90&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tommella90&show_icons=true&theme=radical)]
+[![Tommy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tommella90&show_icons=true&theme=radical)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tommella90&layout=compact)]
