@@ -13,7 +13,7 @@ ___
 
 | CV                         | Portfolio                    |           Linkedin          |
 |----------------------------|------------------------------|-----------------------------|
-|[<img src="https://github.com/tommella90/tommella90/blob/main/images/sphere_inst2.png" width="200" height="200">](https://github.com/tommella90/tommella90/blob/main/images/sphere_inst2.png)      |[<img src="https://github.com/tommella90/tommella90/blob/main/images/pf2.png" width="200" height="200">](https://github.com/tommella90/Tommy_Portfolio)   |[<img src="https://github.com/tommella90/tommella90/blob/main/images/linkedin.png" width="200" height="200">](https://www.linkedin.com/in/tommaso-ramella-dsmla/)      |
+|[<img src="https://github.com/tommella90/tommella90/blob/main/images/sphere_inst2.png" width="200" height="200">](https://github.com/tommella90/CV/blob/main/TommasoRamellaResume_enhance.pdf)      |[<img src="https://github.com/tommella90/tommella90/blob/main/images/pf2.png" width="200" height="200">](https://github.com/tommella90/Tommy_Portfolio)   |[<img src="https://github.com/tommella90/tommella90/blob/main/images/linkedin.png" width="200" height="200">](https://www.linkedin.com/in/tommaso-ramella-dsmla/)      |
 
 
 I like taking my time to learn new staffs, I also love sloths :sloth:
