@@ -1,16 +1,13 @@
 ### Hello, I'm Tommaso :smiley: :rainbow: :coffee:
 ___
 ### I'm a postdoctoral researcher in economics at the University of Milan, Bicocca, willing to move to ***data science*** in the industry. 
-<img align="right" width="370" height="205" src="https://github.com/tommella90/tommella90/blob/main/images/mylogo2.png">
-
 * :bar_chart: +5 years of experience in econometrics, data analysis and inferential statistics
 * :books: Main topics: labour market, public policies evaluation, personality traits 
 * :milky_way: Currently deepening Machine Learning and data modeling
 * :art: Also studying Touchdesigner for 3D modeling and data visualization 
 * :video_game: Ex competitive martial artist and videogame pro-player
 
-
-
+_______________________________________________________________________
 | CV                         | Portfolio                    |           Linkedin          |
 |----------------------------|------------------------------|-----------------------------|
 |[<img src="https://github.com/tommella90/tommella90/blob/main/images/sphere_inst2.png" width="200" height="200">](https://github.com/tommella90/CV/blob/main/TommasoRamellaResume_enhance.pdf)      |[<img src="https://github.com/tommella90/tommella90/blob/main/images/pf2.png" width="200" height="200">](https://github.com/tommella90/Tommy_Portfolio)   |[<img src="https://github.com/tommella90/tommella90/blob/main/images/linkedin.png" width="200" height="200">](https://www.linkedin.com/in/tommaso-ramella-dsmla/)      |
