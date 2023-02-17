@@ -14,9 +14,12 @@ _______________________________________________________________________
 |----------------------------|------------------------------|-----------------------------|
 |[<img src="https://github.com/tommella90/tommella90/blob/main/images/sphere_inst2.png" width="200" height="200">](https://tommella90-digital-cv-app-w845um.streamlit.app/)      |[<img src="https://github.com/tommella90/tommella90/blob/main/images/pf2.png" width="200" height="200">](https://github.com/tommella90/Tommy_Portfolio)   |[<img src="https://github.com/tommella90/tommella90/blob/main/images/linkedin.png" width="200" height="200">](https://www.linkedin.com/in/tommaso-ramella-dsmla/)      |
 
-[<img src="https://github.com/tommella90/tommella90/blob/main/images/profile-pic%20(5).png" width="200" height="200">]
 
+I'm amazed by how we can use data to create wonderful staffs.
 I like taking my time to learn new staffs, I also love sloths :sloth:
+
+<img src="https://github.com/tommella90/tommella90/blob/main/images/icon_nlp.jpg" align="center" width="400" height="400">
+
 ____
 ### LANGUAGES AND TOOLS
 ---
@@ -28,6 +31,10 @@ ____
 
 ---
 [<img src="https://github.com/tommella90/tommella90/blob/main/images/plt.png" width="70" height="70">](https://matplotlib.org/) &nbsp;&nbsp; [<img src="https://github.com/tommella90/tommella90/blob/main/images/seaborn.png" width="70" height="70">](https://seaborn.pydata.org/) &nbsp;&nbsp; [<img src="https://github.com/tommella90/tommella90/blob/main/images/plotly.png" width="70" height="70">](https://plotly.com/) &nbsp;&nbsp; [<img src="https://github.com/tommella90/tommella90/blob/main/images/ghephi.png" width="70" height="70">](https://gephi.org/) &nbsp;&nbsp;
+
+---
+[<img src="https://github.com/tommella90/tommella90/blob/main/images/docker.png" width="70" height="70">](https://matplotlib.org/) &nbsp;&nbsp; [<img src="https://github.com/tommella90/tommella90/blob/main/images/heroku.png" width="70" height="70">](https://seaborn.pydata.org/) &nbsp;&nbsp; [<img src="https://github.com/tommella90/tommella90/blob/main/images/streamlit.png" width="70" height="70">](https://plotly.com/) &nbsp;&nbsp;
+
 
 
 ## SOME STATS (I'm pretty noobie)
