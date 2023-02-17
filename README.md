@@ -1,5 +1,7 @@
 ### Hello, I'm Tommaso :smiley: :rainbow: :coffee:
 ___
+<img src="https://github.com/tommella90/tommella90/blob/main/images/profile-pic%20(5).png" align="right" width="200" height="200">
+
 ### I'm a postdoctoral researcher in economics at the University of Milan, Bicocca, willing to move to ***data science*** in the industry. 
 * :bar_chart: +5 years of experience in econometrics, data analysis and inferential statistics
 * :books: Main topics: labour market, public policies evaluation, personality traits 
@@ -12,7 +14,7 @@ _______________________________________________________________________
 |----------------------------|------------------------------|-----------------------------|
 |[<img src="https://github.com/tommella90/tommella90/blob/main/images/sphere_inst2.png" width="200" height="200">](https://tommella90-digital-cv-app-w845um.streamlit.app/)      |[<img src="https://github.com/tommella90/tommella90/blob/main/images/pf2.png" width="200" height="200">](https://github.com/tommella90/Tommy_Portfolio)   |[<img src="https://github.com/tommella90/tommella90/blob/main/images/linkedin.png" width="200" height="200">](https://www.linkedin.com/in/tommaso-ramella-dsmla/)      |
 
-![profile-pic (1)](https://user-images.githubusercontent.com/66441052/219813094-cc74923e-ea92-47b7-8c2e-d69af8ae9ec5.png)
+[<img src="https://github.com/tommella90/tommella90/blob/main/images/profile-pic%20(5).png" width="200" height="200">]
 
 I like taking my time to learn new staffs, I also love sloths :sloth:
 ____
