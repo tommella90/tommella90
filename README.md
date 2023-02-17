@@ -12,6 +12,7 @@ _______________________________________________________________________
 |----------------------------|------------------------------|-----------------------------|
 |[<img src="https://github.com/tommella90/tommella90/blob/main/images/sphere_inst2.png" width="200" height="200">](https://tommella90-digital-cv-app-w845um.streamlit.app/)      |[<img src="https://github.com/tommella90/tommella90/blob/main/images/pf2.png" width="200" height="200">](https://github.com/tommella90/Tommy_Portfolio)   |[<img src="https://github.com/tommella90/tommella90/blob/main/images/linkedin.png" width="200" height="200">](https://www.linkedin.com/in/tommaso-ramella-dsmla/)      |
 
+![profile-pic (1)](https://user-images.githubusercontent.com/66441052/219813094-cc74923e-ea92-47b7-8c2e-d69af8ae9ec5.png)
 
 I like taking my time to learn new staffs, I also love sloths :sloth:
 ____
