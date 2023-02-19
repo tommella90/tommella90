@@ -1,6 +1,6 @@
 ### Hello, I'm Tommaso :smiley: :rainbow: :coffee:
 ___
-<img src="https://github.com/tommella90/tommella90/blob/main/images/profile-pic%20(5).png" align="right" width="200" height="200">
+<img src="https://github.com/tommella90/tommella90/blob/main/images/icon_nlp.jpg" align="right" width="200" height="200">
 
 ### I'm a postdoctoral researcher in economics at the University of Milan, Bicocca, willing to move to ***data science*** in the industry. 
 * :bar_chart: +5 years of experience in econometrics, data analysis and inferential statistics
@@ -17,8 +17,6 @@ _______________________________________________________________________
 
 I'm amazed by how we can use data to create wonderful staffs.
 I like taking my time to learn new staffs, I also love sloths :sloth:
-
-<img src="https://github.com/tommella90/tommella90/blob/main/images/icon_nlp.jpg" align="center" width="400" height="400">
 
 ____
 ### LANGUAGES AND TOOLS
