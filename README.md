@@ -8,7 +8,7 @@ ___
 * :milky_way: Currently deepening Machine Learning and data modeling
 * :art: Also studying Touchdesigner for 3D modeling and data visualization 
 * :video_game: Ex competitive martial artist and videogame pro-player
-
+https://share.streamlit.io/
 _______________________________________________________________________
 | CV                         | Portfolio                    |           Linkedin          |
 |----------------------------|------------------------------|-----------------------------|
@@ -21,17 +21,18 @@ I like taking my time to learn new staffs, I also love sloths :sloth:
 ____
 ### LANGUAGES AND TOOLS
 ---
-[<img src="https://github.com/tommella90/tommella90/blob/main/images/python_logo.png" width="50" height="50">](https://www.python.org/) &nbsp;&nbsp; [<img src="https://github.com/tommella90/tommella90/blob/main/images/stata_logo.png" width="70" height="70">](https://www.stata.com/) &nbsp;&nbsp;   [<img src="https://github.com/tommella90/tommella90/blob/main/images/td.png" width="70" height="70">](https://derivative.ca/)  &nbsp;&nbsp;  [<img src="https://github.com/tommella90/tommella90/blob/main/images/sql.ico" width="70" height="70">](https://www.mysql.com/)  &nbsp;&nbsp; [<img src="https://github.com/tommella90/tommella90/blob/main/images/gitbash.png" width="70" height="70">](https://networkx.org/)  &nbsp;&nbsp;
+[<img src="https://github.com/tommella90/tommella90/blob/main/images/python_logo.png" width="50" height="50">](https://www.python.org/) &nbsp;&nbsp; [<img src="https://github.com/tommella90/tommella90/blob/main/images/stata_logo.png" width="70" height="70">](https://www.stata.com/) &nbsp;&nbsp;   [<img src="https://github.com/tommella90/tommella90/blob/main/images/td.png" width="70" height="70">](https://derivative.ca/)  &nbsp;&nbsp;  [<img src="https://github.com/tommella90/tommella90/blob/main/images/sql.ico" width="70" height="70">](https://www.mysql.com/)  &nbsp;&nbsp; [<img src="https://github.com/tommella90/tommella90/blob/main/images/gitbash.png" width="70" height="70">](https://git-scm.com/)  &nbsp;&nbsp;
 
 ---
-[<img src="https://github.com/tommella90/tommella90/blob/main/images/pandas.png" width="70" height="70">](https://pandas.pydata.org/) &nbsp;&nbsp; [<img src="https://github.com/tommella90/tommella90/blob/main/images/statsmodel.png" width="70" height="70">](https://pypi.org/project/statsmodels/) &nbsp;&nbsp; [<img src="https://github.com/tommella90/tommella90/blob/main/images/sci-learn.png" width="70" height="70">](https://scikit-learn.org/stable/) &nbsp;&nbsp; [<img src="https://github.com/tommella90/tommella90/blob/main/images/pytorch.png" width="70" height="70">](https://pytorch.org/) &nbsp;&nbsp; [<img src="https://github.com/tommella90/tommella90/blob/main/images/mediapipe.png" width="70" height="70">](https://google.github.io/mediapipe/) &nbsp;&nbsp; [<img src="https://github.com/tommella90/tommella90/blob/main/images/ntwx.png" width="70" height="70">](https://networkx.org/) &nbsp;&nbsp; [<img src="https://github.com/tommella90/tommella90/blob/main/images/tf.png" width="70" height="70">](https://networkx.org/)
+[<img src="https://github.com/tommella90/tommella90/blob/main/images/pandas.png" width="70" height="70">](https://pandas.pydata.org/) &nbsp;&nbsp; [<img src="https://github.com/tommella90/tommella90/blob/main/images/statsmodel.png" width="70" height="70">](https://pypi.org/project/statsmodels/) &nbsp;&nbsp; [<img src="https://github.com/tommella90/tommella90/blob/main/images/sci-learn.png" width="70" height="70">](https://scikit-learn.org/stable/) &nbsp;&nbsp; [<img src="https://github.com/tommella90/tommella90/blob/main/images/pytorch.png" width="70" height="70">](https://pytorch.org/) &nbsp;&nbsp; [<img src="https://github.com/tommella90/tommella90/blob/main/images/mediapipe.png" width="70" height="70">](https://google.github.io/mediapipe/) &nbsp;&nbsp; [<img src="https://github.com/tommella90/tommella90/blob/main/images/ntwx.png" width="70" height="70">](https://networkx.org/) &nbsp;&nbsp; [<img src="https://github.com/tommella90/tommella90/blob/main/images/tf.png" width="70" height="70">](https://www.tensorflow.org/?hl=it) &nbsp;&nbsp; [<img src="https://github.com/tommella90/tommella90/blob/main/images/opencv.png" width="70" height="70">]([https://networkx.org/)](https://opencv.org/)
 
 
 ---
 [<img src="https://github.com/tommella90/tommella90/blob/main/images/plt.png" width="70" height="70">](https://matplotlib.org/) &nbsp;&nbsp; [<img src="https://github.com/tommella90/tommella90/blob/main/images/seaborn.png" width="70" height="70">](https://seaborn.pydata.org/) &nbsp;&nbsp; [<img src="https://github.com/tommella90/tommella90/blob/main/images/plotly.png" width="70" height="70">](https://plotly.com/) &nbsp;&nbsp; [<img src="https://github.com/tommella90/tommella90/blob/main/images/ghephi.png" width="70" height="70">](https://gephi.org/) &nbsp;&nbsp;
 
 ---
-[<img src="https://github.com/tommella90/tommella90/blob/main/images/docker.png" width="70" height="70">](https://matplotlib.org/) &nbsp;&nbsp; [<img src="https://github.com/tommella90/tommella90/blob/main/images/heroku.png" width="70" height="70">](https://seaborn.pydata.org/) &nbsp;&nbsp; [<img src="https://github.com/tommella90/tommella90/blob/main/images/streamlit.png" width="70" height="70">](https://plotly.com/) &nbsp;&nbsp;
+[<img src="https://github.com/tommella90/tommella90/blob/main/images/docker.png" width="70" height="70">](https://www.docker.com/) &nbsp;&nbsp; [<img src="https://github.com/tommella90/tommella90/blob/main/images/heroku.png" width="70" height="70">](https://github.com/heroku) &nbsp;&nbsp; [<img src="https://github.com/tommella90/tommella90/blob/main/images/streamlit.png" width="70" height="70">](https://streamlit.io/) &nbsp;&nbsp; [<img src="https://github.com/tommella90/tommella90/blob/main/images/fastapi.png" width="70" height="70">](https://fastapi.tiangolo.com/) &nbsp;&nbsp;
+
 
 
 
