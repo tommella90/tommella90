@@ -10,9 +10,9 @@ ___
 * :video_game: Ex competitive martial artist and videogame pro-player
 
 _______________________________________________________________________
-| CV                         | Portfolio                    |           Linkedin          |         Streamlit           |
-|----------------------------|------------------------------|-----------------------------|-----------------------------|
-|[<img src="https://github.com/tommella90/tommella90/blob/main/images/sphere_inst2.png" width="200" height="200">](https://tommella90-digital-cv-app-w845um.streamlit.app/)      |[<img src="https://github.com/tommella90/tommella90/blob/main/images/pf2.png" width="200" height="200">]()   |[<img src="https://github.com/tommella90/tommella90/blob/main/images/linkedin.png" width="150" height="150">](https://www.linkedin.com/in/tommaso-ramella-dsmla/)      |[<img src="https://github.com/tommella90/tommella90/blob/main/images/streamlit.png" width="200" height="200">](https://share.streamlit.io/)
+| CV                         | Portfolio                    |           Linkedin          |
+|----------------------------|------------------------------|-----------------------------|
+|[<img src="https://github.com/tommella90/tommella90/blob/main/images/sphere_inst2.png" width="200" height="200">](https://tommella90-digital-cv-app-w845um.streamlit.app/)      |[<img src="https://github.com/tommella90/tommella90/blob/main/images/pf2.png" width="200" height="200">]()   |[<img src="https://github.com/tommella90/tommella90/blob/main/images/linkedin.png" width="150" height="150">](https://www.linkedin.com/in/tommaso-ramella-dsmla/)     
 
 
 I'm amazed by how we can use data to create wonderful staffs.
