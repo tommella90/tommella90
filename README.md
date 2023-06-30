@@ -2,21 +2,21 @@
 ___
 <img src="https://github.com/tommella90/tommella90/blob/main/images/icon_nlp.jpg" align="right" width="200" height="200">
 
-### I'm a postdoctoral researcher in economics at the University of Milan, Bicocca, willing to move to ***data science*** in the industry. 
-* :bar_chart: +5 years of experience in econometrics, data analysis and inferential statistics
-* :books: Main topics: labour market, public policies evaluation, personality traits 
-* :milky_way: Currently deepening Machine Learning and data modeling
-* :art: Also studying Touchdesigner for 3D modeling and data visualization 
+### Just another digital nomads
+##### I'm a data analyst/ML engeneer in the energy market, with a background in sociology of labour market (Ph.D.)
+* :bar_chart: EXPERIENCE) econometrics, data analysis and and ML (classic ML, NLP, forecasting)
+* :books: TOPICS) energy and labour market, public policies evaluation 
+* :art: INTERESTS) 3D modeling and Computer vision for fun (Touchdesigner mid/expert, Unreal Engine learner)
 * :video_game: Ex competitive martial artist and videogame pro-player
+  
 
 _______________________________________________________________________
 | CV                         | Portfolio                    |           Linkedin          |
 |----------------------------|------------------------------|-----------------------------|
 |[<img src="https://github.com/tommella90/tommella90/blob/main/images/sphere_inst2.png" width="200" height="200">](https://tommella90-digital-cv-app-w845um.streamlit.app/)      |[<img src="https://github.com/tommella90/tommella90/blob/main/images/pf2.png" width="200" height="200">](https://github.com/tommella90/Tommy_Portfolio)   |[<img src="https://github.com/tommella90/tommella90/blob/main/images/linkedin.png" width="200" height="150">](https://www.linkedin.com/in/tommaso-ramella-dsmla/)     
 
-
 I'm amazed by how we can use data to create wonderful staffs.
-I like taking my time to learn new staffs, I also love sloths :sloth:
+I like taking my time to learn new things, I also love sloths :sloth:
 
 ____
 ### LANGUAGES AND TOOLS
@@ -33,9 +33,6 @@ ____
 ---
 [<img src="https://github.com/tommella90/tommella90/blob/main/images/docker.png" width="70" height="70">](https://www.docker.com/) &nbsp;&nbsp; [<img src="https://github.com/tommella90/tommella90/blob/main/images/heroku.png" width="70" height="70">](https://github.com/heroku) &nbsp;&nbsp; [<img src="https://github.com/tommella90/tommella90/blob/main/images/streamlit.png" width="70" height="70">](https://streamlit.io/) &nbsp;&nbsp; [<img src="https://github.com/tommella90/tommella90/blob/main/images/fastapi.png" width="70" height="70">](https://fastapi.tiangolo.com/) &nbsp;&nbsp;
 
-
-
-
-## SOME STATS (I'm pretty noobie)
+## SOME STATS 
 [![Tommy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tommella90&show_icons=true&theme=classic)](https://github.com/tommella90/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tommella90&show_icons=true&theme=classic)](https://github.com/tommella90/github-readme-stats)
