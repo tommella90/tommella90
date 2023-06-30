@@ -8,7 +8,6 @@ ___
 * :books: TOPICS) energy and labour market, public policies evaluation 
 * :art: INTERESTS) 3D modeling and Computer vision for fun (Touchdesigner mid/expert, Unreal Engine learner)
 * :video_game: Ex competitive martial artist and videogame pro-player
-  
 
 _______________________________________________________________________
 | CV                         | Portfolio                    |           Linkedin          |
