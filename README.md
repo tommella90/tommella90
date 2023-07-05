@@ -2,7 +2,7 @@
 ___
 <img src="https://github.com/tommella90/tommella90/blob/main/images/icon_nlp.jpg" align="right" width="200" height="200">
 
-### Just another digital nomads
+### Just another digital nomad
 ##### I'm a data analyst/ML engeneer in the energy market, with a background in sociology of labour market (Ph.D.)
 * :bar_chart: EXPERIENCE) econometrics, data analysis and and ML (classic ML, NLP, forecasting)
 * :books: TOPICS) energy and labour market, public policies evaluation 
