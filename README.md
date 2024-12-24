@@ -9,8 +9,6 @@ ___
 * :art: INTERESTS) 3D modeling and Computer vision (Touchdesigner mid/expert)
 * :video_game: Ex competitive martial artist and videogame pro-player
 
-
-- [CV](https://tommella90.github.io/tommella-frontend/cv)
 _______________________________________________________________________
 | [CV](https://tommella90.github.io/tommella-frontend/cv) | [Linkedin](https://www.linkedin.com/in/tommaso-ramella/)|
 |---------------------------------------------------------|---------------------------------------------------------|
