@@ -2,13 +2,30 @@
 ___
 <img src="https://github.com/tommella90/tommella90/blob/main/images/icon_nlp.jpg" align="right" width="200" height="200">
 
-### I'm just another ND person trying to survive
+### I'm just another ND person trying to survive in Capitalism
+I have many interestes and I like changing field to learn new things. I'm not a super-duper expert in any specific field, but I'm well versed in many different fields. Those are a few things I did as a job or I got super passionate about:
 
-##### I'm a data scientist with a background in sociology of labour market (Ph.D.)
-* :bar_chart: EXPERIENCE) econometrics/causal inference, longitudinal analysis, time-series forecasting, machine learning, NLP (finetuning)
-* :books: TOPICS) energy market, labour market, public policies evaluation, NLP
-* :art: INTERESTS) 3D modeling and Computer vision (Touchdesigner mid/expert)
-* :video_game: Ex competitive martial artist and videogame pro-player
+#### 1. Researcher in Econometrics 📚
+I got a Ph.D. and worked as a researcher in Sociology-Econometrics. Here I got passionate about data (which is a very broad a nonsense way of saying, but I actually like datasetas somehow)
+
+#### 2. Data scientist 📊
+I worked as data scientist for 2 startups, getting some expertise in LLMs and time-series forecastin (on the energy market). I like going deep into things, so I got really passionate about the maths of deep learning
+
+#### Touchdesinger 🖼️
+Touchdesigner is a 3D-art software, mostly used for audio-reactive visuals. I used it for arts (creating videos for music) but I'm hyperfixating now on how to use it for data visualiation. I'm cooking it, soon there will be something out (link here soon)
+
+#### I liked competiotion 🥋
+Even though I prefer a more chill way of living now, I've been competing at good levels in:
+- Taekwondo) I was regional champion for a few years in a row before retiring, and also teacher
+- Videogames) I was top italian player in Smash Bros (best princess peach mainer) and Rivals of Aether
+
+#### Sociology 🌆
+Before moving to statistics (in my Ph.D.) I though I would become a researcher in sociology. I spent years eating books about society (sociology, economics, philosophy and psychology mostly). Then, after years of endless discourses, I decided I needed certainty and numbers (still love endless chatting). 
+
+#### Art 🎨
+I am now hyperfixating on art, specifically color pencils. I guess I love creating colored 3d worlds, is it with programming or hands, doesn't matter
+
+
 
 _______________________________________________________________________
 | [CV](https://tommella90.github.io/tommella-frontend/cv) | [Linkedin](https://www.linkedin.com/in/tommaso-ramella/)|[MyWebsite]([https://www.linkedin.com/in/tommaso-ramella/](https://tommella90-website.vercel.app/cv))||---------------------------------------------------------|---------------------------------------------------------||---------------------------------------------------------|
