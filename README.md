@@ -1,6 +1,6 @@
 # Hello, I'm Tommaso :smiley: :rainbow: :coffee:
 ___
-<img src="https://github.com/tommella90/tommella90/blob/main/images/icon_nlp.jpg" align="right" width="200" height="200">
+<img src="[https://github.com/tommella90/tommella90/blob/main/images/icon_nlp.jpg](https://github.com/tommella90/tommella90/blob/main/images/neuro.jpeg)" align="right" width="200" height="200">
 
 ## I'm just another ND person trying to survive in Capitalism
 I have many interestes and I like changing field to learn new things. I'm not a super-duper expert in any specific field, but I'm well versed in many different fields. Those are a few things I did as a job or I got super passionate about:
@@ -28,8 +28,7 @@ I am now hyperfixating on art, specifically color pencils. I guess I love creati
 
 
 _______________________________________________________________________
-| [CV](https://tommella90.github.io/tommella-frontend/cv) | [Linkedin](https://www.linkedin.com/in/tommaso-ramella/)|[MyWebsite]([https://www.linkedin.com/in/tommaso-ramella/](https://tommella90-website.vercel.app/cv))||---------------------------------------------------------|---------------------------------------------------------||---------------------------------------------------------|
-|[<img src="https://github.com/tommella90/tommella90/blob/main/images/sphere_inst2.png" width="200" height="200">](https://tommella90-digital-cv-app-w845um.streamlit.app/) |[<img src="https://github.com/tommella90/tommella90/blob/main/images/linkedin.png" width="200" height="150">](https://www.linkedin.com/in/tommaso-ramella-dsmla/)     
+| [CV](https://tommella90-website.vercel.app/cv) | [Linkedin](https://www.linkedin.com/in/tommaso-ramella/)|---------------------------------------------------------|---------------------------------------------------------|[<img src="https://github.com/tommella90/tommella90/blob/main/images/sphere_inst2.png" width="200" height="200">](https://tommella90-digital-cv-app-w845um.streamlit.app/) |[<img src="https://github.com/tommella90/tommella90/blob/main/images/linkedin.png" width="200" height="150">](https://www.linkedin.com/in/tommaso-ramella-dsmla/)     
 
 I like taking my time to learn new things, I also love sloths :sloth:
 
