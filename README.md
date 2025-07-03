@@ -1,6 +1,11 @@
-# Hello, I'm Tommaso :smiley: :rainbow: :coffee:
+# Hello, I'm Tommaso 😃 🌈 ☕
+
+<p align="center">
+  <img src="https://github.com/tommella90/tommella90/blob/main/images/neuro.jpeg" width="300" alt="Neurodiversity art"/>
+</p>
 
 ## I'm just another ND person trying to survive in Capitalism
+
 I have many interestes and I like changing field to learn new things. I'm not a super-duper expert in any specific field, but I'm well versed in many different fields. Those are a few things I did as a job or I got super passionate about:
 
 ### 1. Researcher in Econometrics 📚
