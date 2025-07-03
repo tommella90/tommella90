@@ -4,7 +4,7 @@
   <img src="https://github.com/tommella90/tommella90/blob/main/images/neuro.jpeg" 
        width="100" height="73"
        alt="Neurodiversity art"
-       style="border: 2px solid #ccc; border-radius: 12px; padding: 4px;">
+       style="border: 20px solid #ccc; border-radius: 12px; padding: 4px;">
 </p>
 
 
