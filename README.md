@@ -1,11 +1,13 @@
 # Hello, I'm Tommaso 😃 🌈 ☕
 
 <p align="center">
-  <img src="https://github.com/tommella90/tommella90/blob/main/images/neuro.jpeg" 
-       width="100" height="73"
-       alt="Neurodiversity art"
-       style="border: 20px solid #ccc; border-radius: 12px; padding: 4px;">
+  <div style="display: inline-block; border: 4px solid #ccc; border-radius: 12px; padding: 4px;">
+    <img src="https://github.com/tommella90/tommella90/blob/main/images/neuro.jpeg" 
+         width="100" height="73" 
+         alt="Neurodiversity art">
+  </div>
 </p>
+
 
 
 ## I'm just another ND person trying to survive in Capitalism
