@@ -3,6 +3,7 @@ ___
 <img src="https://github.com/tommella90/tommella90/blob/main/images/icon_nlp.jpg" align="right" width="200" height="200">
 
 ### I'm just another ND person trying to survive
+
 ##### I'm a data scientist with a background in sociology of labour market (Ph.D.)
 * :bar_chart: EXPERIENCE) econometrics/causal inference, longitudinal analysis, time-series forecasting, machine learning, NLP (finetuning)
 * :books: TOPICS) energy market, labour market, public policies evaluation, NLP
@@ -10,8 +11,7 @@ ___
 * :video_game: Ex competitive martial artist and videogame pro-player
 
 _______________________________________________________________________
-| [CV](https://tommella90.github.io/tommella-frontend/cv) | [Linkedin](https://www.linkedin.com/in/tommaso-ramella/)|
-|---------------------------------------------------------|---------------------------------------------------------|
+| [CV](https://tommella90.github.io/tommella-frontend/cv) | [Linkedin](https://www.linkedin.com/in/tommaso-ramella/)|[MyWebsite]([https://www.linkedin.com/in/tommaso-ramella/](https://tommella90-website.vercel.app/cv))||---------------------------------------------------------|---------------------------------------------------------||---------------------------------------------------------|
 |[<img src="https://github.com/tommella90/tommella90/blob/main/images/sphere_inst2.png" width="200" height="200">](https://tommella90-digital-cv-app-w845um.streamlit.app/) |[<img src="https://github.com/tommella90/tommella90/blob/main/images/linkedin.png" width="200" height="150">](https://www.linkedin.com/in/tommaso-ramella-dsmla/)     
 
 I like taking my time to learn new things, I also love sloths :sloth:
