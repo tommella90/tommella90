@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://github.com/tommella90/tommella90/blob/main/images/neuro.jpeg" 
-       width="300" height="100"
+       width="100" height="73"
        alt="Neurodiversity art"
        style="border: 2px solid #ccc; border-radius: 12px; padding: 4px;">
 </p>
