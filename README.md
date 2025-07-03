@@ -24,7 +24,7 @@ Before moving to statistics (in my Ph.D.) I though I would become a researcher i
 I am now hyperfixating on art, specifically color pencils. I guess I love creating colored 3d worlds, is it with programming or hands, doesn't matter
 
 ____________________________________________________________________
-<table> <tr> <td align="center"> <a href="https://tommella90-digital-cv-app-w845um.streamlit.app/"> <img src="https://github.com/tommella90/tommella90/blob/main/images/sphere_inst2.png" width="150" height="150" alt="Digital CV"/> <br>Digital CV </a> </td> <td align="center"> <a href="https://www.linkedin.com/in/tommaso-ramella-dsmla/"> <img src="https://github.com/tommella90/tommella90/blob/main/images/linkedin.png" width="150" height="110" alt="LinkedIn"/> <br>LinkedIn </a> </td> </tr> </table> <p align="center"> 📄 <a href="https://tommella90-website.vercel.app/cv">View my CV</a> &nbsp;&nbsp;|&nbsp;&nbsp; 🔗 <a href="https://www.linkedin.com/in/tommaso-ramella/">LinkedIn Profile</a> </p>
+<table> <tr> <td align="center"> <a href="https://tommella90-digital-cv-app-w845um.streamlit.app/"> <img src="https://github.com/tommella90/tommella90/blob/main/images/sphere_inst2.png" width="150" height="150" alt="Digital CV"/> <br>Digital CV </a> </td> <td align="center"> <a href="https://www.linkedin.com/in/tommaso-ramella-dsmla/"> <img src="https://github.com/tommella90/tommella90/blob/main/images/linkedin.png" width="150" height="110" alt="LinkedIn"/> <br>LinkedIn </a> </td> </tr> </table> <p align="center">
 
 I like taking my time to learn new things, I also love sloths :sloth:
 
