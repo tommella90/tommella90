@@ -1,7 +1,7 @@
 # Hello, I'm Tommaso 😃 🌈 ☕
 
 <p align="center">
-  <img src="https://github.com/tommella90/tommella90/blob/main/images/neuro.jpeg" width="300" alt="Neurodiversity art"/>
+  <img src="https://github.com/tommella90/tommella90/blob/main/images/neuro.jpeg" width="150" height="100" alt="Neurodiversity art"/>
 </p>
 
 ## I'm just another ND person trying to survive in Capitalism
