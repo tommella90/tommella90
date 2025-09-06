@@ -8,10 +8,6 @@
   </div>
 </p>
 
-
-
-## I'm just another ND person trying to survive in Capitalism
-
 I have many interestes and I like changing field to learn new things. I'm not a super-duper expert in any specific field, but I'm well versed in many different fields. Those are a few things I did as a job or I got super passionate about:
 
 ### 1. Researcher in Econometrics 📚
@@ -35,7 +31,7 @@ Before moving to statistics (in my Ph.D.) I though I would become a **researcher
 I am now hyperfixating on art, specifically **color pencils**. I guess I love creating colored 3d worlds, is it with programming or hands, doesn't matter
 
 ____________________________________________________________________
-| <a href="https://tommella90-digital-cv-app-w845um.streamlit.app/"><img src="https://github.com/tommella90/tommella90/blob/main/images/mylogo2.png" width="200" height="200"></a> | <a href="https://www.linkedin.com/in/tommaso-ramella-dsmla/"><img src="https://github.com/tommella90/tommella90/blob/main/images/linkedin.png" width="200" height="200"></a> |
+| <a href="https://tommella90-website.vercel.app/cv"><img src="https://github.com/tommella90/tommella90/blob/main/images/mylogo2.png" width="200" height="200"></a> | <a href="https://www.linkedin.com/in/tommaso-ramella-dsmla/"><img src="https://github.com/tommella90/tommella90/blob/main/images/linkedin.png" width="200" height="200"></a> |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | [Digital CV](https://tommella90-digital-cv-app-w845um.streamlit.app/) | [LinkedIn](https://www.linkedin.com/in/tommaso-ramella-dsmla/) |
 
