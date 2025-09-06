@@ -33,7 +33,7 @@ I am now hyperfixating on art, specifically **color pencils**. I guess I love cr
 ____________________________________________________________________
 | <a href="https://tommella90-website.vercel.app/cv"><img src="https://github.com/tommella90/tommella90/blob/main/images/mylogo2.png" width="200" height="200"></a> | <a href="https://www.linkedin.com/in/tommaso-ramella-dsmla/"><img src="https://github.com/tommella90/tommella90/blob/main/images/linkedin.png" width="200" height="200"></a> |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| [Digital CV](https://tommella90-digital-cv-app-w845um.streamlit.app/) | [LinkedIn](https://www.linkedin.com/in/tommaso-ramella-dsmla/) |
+| [Digital CV](https://tommella90-website.vercel.app/cv) | [LinkedIn](https://www.linkedin.com/in/tommaso-ramella-dsmla/) |
 
 
 I like taking my time to learn new things, I also love sloths :sloth:
